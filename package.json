@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "nodemon": "^2.0.22",
+    "node-code-generator": "^1.0.3",
+    "node-routeros": "^1.6.9",
+    "dotenv": "^16.0.3"
+  },
+  "type": "module",
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
